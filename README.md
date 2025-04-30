@@ -18,4 +18,5 @@ This repository contains HTML templates and CSS for all required pages. You need
 4. Configure Docker and Nginx (reverse proxy + load balancing)
 
 Good luck!
+
 Aqeel
